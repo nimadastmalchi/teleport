@@ -1,0 +1,7 @@
+name: Teleport
+version: 1.0
+main: com.gmail.nimadastmalchi.teleport.Main
+
+commands:
+  teleport:
+    description: Teleport TeleportPlugin.
